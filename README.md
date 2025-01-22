@@ -1,3 +1,5 @@
+## 100 DOC
+* Day 1++
 # groceryapp_lite
 
-Lite_Yes Light!
+Lite _Yes Light!
